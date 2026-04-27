@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Silvia Gamboa</h1>
-<h3 align="center">💻 Fullstack Developer in progress</h3>
+<h1 align="center">Hi 👋, I'm Silvia Gamboa/h1>
+<h3 align="center">🚀 Fullstack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=26&center=true&vCenter=true&width=700&lines=Angular+%7C+.NET+%7C+SQL+Server;Clean+Architecture+%7C+DDD;Always+learning+new+technologies" />
+</p>
 
 <p align="center">
   🚀 Building web applications | 💡 Solving real-world problems <br>
@@ -25,10 +29,10 @@
 ---
 
 ## ✨ About Me
-- 💻 Apasionada por el desarrollo Fullstack  
-- ⚙️ Enfocada en .NET, Angular y SQL Server  
-- 📊 Interesada en sistemas que optimizan procesos empresariales  
-- 🚀 Siempre aprendiendo y mejorando mis habilidades  
+- 💻 Passionate about Fullstack development
+- ⚙️ Focused on .NET, Angular, and SQL Server
+- 📊 Interested in systems that optimize business processes
+- 🚀 Always learning and improving my skills
 
 ---
 
@@ -87,7 +91,6 @@
 👉 [View Repository](https://github.com/TU-USUARIO/TU-REPO)
 
 ---
--->
 
 ## 📊 GitHub Stats
 
@@ -98,6 +101,7 @@
 </p>
 
 ---
+-->
 
 ## ⚡ Fun fact
 ✨ I enjoy turning ideas into real applications that solve problems  
