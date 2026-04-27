@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Silvia Gamboa</h1>
+<h3 align="center">💻 Fullstack Developer in progress</h3>
 
-<!--
-**SilviaGamboa/SilviaGamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Building web applications | 💡 Solving real-world problems <br>
+  🌱 Informática Empresarial @ UCR | 📍 Costa Rica
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Connect with me
+<p align="center">
+  <a href="www.linkedin.com/in/silvia-gamboa-71118227b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
+  <!-- FUTURO PORTAFOLIO 
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-coming%20soon-purple" />
+  </a>
+</p>
 -->
+---
+
+## ✨ About Me
+- 💻 Apasionada por el desarrollo Fullstack  
+- ⚙️ Enfocada en .NET, Angular y SQL Server  
+- 📊 Interesada en sistemas que optimizan procesos empresariales  
+- 🚀 Siempre aprendiendo y mejorando mis habilidades  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-indigo?logo=php&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-red?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Practices
+<p>
+<img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-blueviolet"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-grey"/>
+<img src="https://img.shields.io/badge/DDD-black"/>
+</p>
+
+---
+<!--
+## 🚀 Featured Projects
+
+### 🏨 Hotel Marea Azul
+🔹 Fullstack system with .NET, Angular & SQL Server  
+🔹 Clean Architecture + DDD  
+🔹 Reservation module development  
+
+👉 [View Repository](https://github.com/TU-USUARIO/TU-REPO)
+
+---
+
+### 🐝 Meliponario UCR
+🔹 Web development with PHP  
+🔹 UX/UI improvements and performance optimization  
+
+👉 [View Repository](https://github.com/TU-USUARIO/TU-REPO)
+
+---
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun fact
+✨ I enjoy turning ideas into real applications that solve problems  
