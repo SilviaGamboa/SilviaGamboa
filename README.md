@@ -17,16 +17,17 @@
   <a href="www.linkedin.com/in/silvia-gamboa-71118227b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
+  
+  <!-- FUTURO PORTAFOLIO 
   <a href="https://github.com/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
-  <!-- FUTURO PORTAFOLIO 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-coming%20soon-purple" />
   </a>
 </p>
 -->
----
+
 
 ## ✨ About Me
 - 💻 Passionate about Fullstack development
@@ -59,6 +60,8 @@
 <p>
 <img src="https://img.shields.io/badge/SQL%20Server-red?logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Practices
