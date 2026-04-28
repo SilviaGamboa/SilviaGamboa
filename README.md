@@ -14,7 +14,7 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="www.linkedin.com/in/silvia-gamboa-71118227b" target="_blank">
+  <a href="https://www.linkedin.com/in/silvia-gamboa-71118227b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   
